@@ -38,7 +38,7 @@ export const DarkLight = () => {
           theme === "light" ? "text-gray-800" : "text-white"
         }`}
       >
-        Hello!! My React v19 Fans 👍
+        Hello!! My Friends 👍
       </p>
       <button
         onClick={handleToggleTheme}
